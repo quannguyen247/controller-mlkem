@@ -1,0 +1,8 @@
+.venv/
+work/
+transcript
+vsim.wlf
+Implementation/logs/*
+Implementation/testbench/result.log
+Implementation/vector/*
+!Implementation/vector/sequencer_test_vectors.py
